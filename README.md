@@ -1,2 +1,2 @@
 # daily-project
--- This project for daily coding practice
+-- This project for daily coding practice.
